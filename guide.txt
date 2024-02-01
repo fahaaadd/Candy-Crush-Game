@@ -1,0 +1,8 @@
+how to play;
+1.press space to start
+2.move cursor with left,right,up or down keys
+3.press space to lock a gem
+4.move the up,down,left,down to swap with desired gem
+5.if 3 identical gems meet,score is increased by 50,if 4 of them meet,score is increased by 100 and a special gem is created
+6.if a special gem is matched with 2 other corresponding gems of same colour,score is increased by 150.
+7.you have 60 seconds of time to play this game
